@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/hello_demo.dir/main.c.o  -o ../bin/hello_demo -rdynamic ../lib_hello/libhello.so.1.2 -Wl,-rpath,"/home/gxt_c/gxt_cmake/hello(5)/temp/lib_hello:" 

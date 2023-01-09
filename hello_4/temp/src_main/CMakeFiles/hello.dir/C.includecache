@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gxt_c/gxt_cmake/hello(4)/lib_hello/hello.h
+
+/home/gxt_c/gxt_cmake/hello(4)/src_main/main.c
+stdio.h
+-
+stdlib.h
+-
+../lib_hello/hello.h
+/home/gxt_c/gxt_cmake/hello(4)/lib_hello/hello.h
+

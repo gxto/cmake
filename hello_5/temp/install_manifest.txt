@@ -1,0 +1,9 @@
+/home/gxt_c/gxt_cmake/hello(5)/exe/doc/copyright
+/home/gxt_c/gxt_cmake/hello(5)/exe/doc/readme
+/home/gxt_c/gxt_cmake/hello(5)/exe/bin/runhello.sh
+/usr/bin/hello_demo
+/home/gxt_c/gxt_cmake/hello(5)/exe/lib/libhello.so.1.2
+/home/gxt_c/gxt_cmake/hello(5)/exe/lib/libhello.so.1
+/home/gxt_c/gxt_cmake/hello(5)/exe/lib/libhello.so
+/home/gxt_c/gxt_cmake/hello(5)/exe/lib/libhello.a
+/home/gxt_c/gxt_cmake/hello(5)/exe/include/hello.h

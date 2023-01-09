@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/hello.dir/main.c.o  -o ../out_bin/hello ../out_lib/libhello.a 
